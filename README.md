@@ -1,1 +1,1 @@
-# IgorHTML
+# igor-html
